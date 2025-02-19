@@ -1,4 +1,4 @@
-# Snake - Clone du jeu classique
+# Snake
 
 Ce projet consiste à recréer une version améliorée du jeu **Snake** en Python. Il propose plusieurs **modes de jeu**, un **menu interactif**, ainsi qu’une **progression de la difficulté** à mesure que le joueur avance dans la partie.  
 
